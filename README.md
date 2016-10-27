@@ -1,7 +1,16 @@
-# Layouts Grids Code-Along 
+# Responsive Features Code-Along
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/bxM1wr7y8tc?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+## Overview
 
-<p><a href="https://www.youtube.com/watch?v=bxM1wr7y8tc">Layouts Grids Code-Along</a></p>.
+In this code along exercise we will make our layout responsive using CSS media queries.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/layouts-grids-code-along' title='Layouts Grids Code-Along'>Layouts Grids Code-Along</a> on Learn.co and start learning to code for free.</p>
+## Steps
+
+1. Fork this repository.
+2. Clone your fork.
+3. `cd` into the folder for this lab.
+4. Code along with the video below.
+
+<iframe width="100%" height="720" src="//www.youtube.com/embed/qxxJhKd2VDE?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/adding-responsive-features' title='Responsive Features Code-Along'>Responsive Features Code-Along</a> on Learn.co and start learning to code for free.</p>
